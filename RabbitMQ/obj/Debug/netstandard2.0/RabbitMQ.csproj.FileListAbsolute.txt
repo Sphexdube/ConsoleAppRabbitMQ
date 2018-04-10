@@ -1,0 +1,9 @@
+C:\Users\2022746\Documents\Visual Studio 2017\Projects\RabbitMQ\RabbitMQ\bin\Debug\netstandard2.0\RabbitMQ.deps.json
+C:\Users\2022746\Documents\Visual Studio 2017\Projects\RabbitMQ\RabbitMQ\bin\Debug\netstandard2.0\RabbitMQ.dll
+C:\Users\2022746\Documents\Visual Studio 2017\Projects\RabbitMQ\RabbitMQ\obj\Debug\netstandard2.0\RabbitMQ.csprojResolveAssemblyReference.cache
+C:\Users\2022746\Documents\Visual Studio 2017\Projects\RabbitMQ\RabbitMQ\obj\Debug\netstandard2.0\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\2022746\Documents\Visual Studio 2017\Projects\RabbitMQ\RabbitMQ\obj\Debug\netstandard2.0\RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\2022746\Documents\Visual Studio 2017\Projects\RabbitMQ\RabbitMQ\obj\Debug\netstandard2.0\RabbitMQ.AssemblyInfo.cs
+C:\Users\2022746\Documents\Visual Studio 2017\Projects\RabbitMQ\RabbitMQ\bin\Debug\netstandard2.0\RabbitMQ.pdb
+C:\Users\2022746\Documents\Visual Studio 2017\Projects\RabbitMQ\RabbitMQ\obj\Debug\netstandard2.0\RabbitMQ.dll
+C:\Users\2022746\Documents\Visual Studio 2017\Projects\RabbitMQ\RabbitMQ\obj\Debug\netstandard2.0\RabbitMQ.pdb
